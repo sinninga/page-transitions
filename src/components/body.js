@@ -16,7 +16,7 @@ class Body extends Component {
 
                 <div className="pimg2">
                     <div className="ptext">
-                        <span class="border">
+                        <span className="border">
                             Image Two Text
                         </span>
                     </div>
@@ -33,7 +33,7 @@ class Body extends Component {
 
                 <div className="pimg3">
                      <div className="ptext">
-                        <span class="border">
+                        <span className="border">
                             Image Three Text
                         </span>
                     </div>
@@ -50,7 +50,7 @@ class Body extends Component {
 
                 <div className="pimg4">
                      <div className="ptext">
-                        <span class="border">
+                        <span className="border">
                             End Picture
                         </span>
                     </div>
