@@ -70,7 +70,7 @@ body, html {
   background-repeat: no-repeat;
 
   background-attachment: fixed;
-  filter: grayscale(20%);
+  filter: drop-shadow(5px 5px 5px #111) contrast(85%);
 }
 
 .ptext {
